@@ -1,3 +1,5 @@
+<div align = "center">
+ 
 ## 📋 Algorithm
  
 <br>
