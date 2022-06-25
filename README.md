@@ -2,7 +2,7 @@
  
 <br>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=022686s)](https://solved.ac/zn9852/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=022686s)](https://solved.ac/022686s/)
 
 <br>
  
