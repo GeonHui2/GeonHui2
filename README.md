@@ -7,6 +7,6 @@
 <br>
  
 ## 📊 Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=022686s&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHui2&show_icons=true)
  
 </div>
