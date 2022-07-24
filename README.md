@@ -4,8 +4,8 @@
  
 <br>
  
-<a href="https://github.com/GeonHui2"><img align="center" style="height:200px; width :400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee"/></a>
-<a href="https://github.com/Geonhui2"> <img align="center" style="height:200px; width :400px" src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
+<a href="https://github.com/GeonHui2"><img align="center" style="height:200px; width :400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=022686s"/></a>
+<a href="https://github.com/Geonhui2"> <img align="center" style="height:200px; width :400px" src="http://mazandi.herokuapp.com/api?handle=022686s&theme=warm"/>
 
 <br>
  
