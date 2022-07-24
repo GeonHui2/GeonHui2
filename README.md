@@ -4,7 +4,8 @@
  
 <br>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=022686s)](https://solved.ac/022686s/)
+<a href="https://github.com/GeonHui2"><img align="center" style="height:200px; width :400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee"/></a>
+<a href="https://github.com/Geonhui2"> <img align="center" style="height:200px; width :400px" src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
 
 <br>
  
